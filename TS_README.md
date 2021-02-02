@@ -1,4 +1,4 @@
-# This file contains node from my Typescript/Angular learning 
+# This file contains notes from my Typescript/Angular learning 
 
 ## var vs let
 
