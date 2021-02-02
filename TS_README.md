@@ -21,3 +21,9 @@ i = 20;  # is ok as well
   i = `a`; # will give error
   i = 20; # is ok
 ```
+- `let` infer the type of variable implicitly (as above) or you can set it explicitly(as below)
+```
+  let i:number;
+  i =20; # ok
+  i= "a";  # not ok
+```
