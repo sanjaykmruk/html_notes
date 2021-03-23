@@ -21,3 +21,14 @@
 - flow layout
 - grid
 - flex
+
+
+## Accessing Page element
+
+- id 
+    - #idname
+    - tagname#idname
+- classname
+    - .classname
+    - tagname.classname
+    - tagname[classname=value]
