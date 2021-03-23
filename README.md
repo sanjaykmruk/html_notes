@@ -31,4 +31,7 @@
 - classname
     - .classname
     - tagname.classname
+- Customized tagname with attributes
     - tagname[classname=value]
+- tagnames
+    - p_tagname c_tagname
